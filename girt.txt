@@ -1,6 +1,3 @@
-adddd
-two lines
-and 
-too more
-too
-more 
+working 
+on 
+git reset 
