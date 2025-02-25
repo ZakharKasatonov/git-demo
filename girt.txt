@@ -1,7 +1,3 @@
 working 
 on 
 git reset 
---------------------------------
-and try to work 
-with git revert
---------------------------------
